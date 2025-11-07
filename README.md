@@ -110,7 +110,7 @@ All projects follow International Institute of Business Analysis (IIBA) standard
 ## 🔗 Connected Resources
 
 ### Professional Toolkit
-- [IIBA Business Analysis Framework](https://github.com/TerrenceWere/iiba-business-analysis-framework) - Comprehensive methodology and templates
+- [Business Analysis Toolkit](https://github.com/TerrenceWere/business-analysis-toolkit) - Comprehensive methodology and templates
 - [Data Analytics Portfolio](https://github.com/TerrenceWere) - Technical implementation examples
 
 ### Certification & Standards
