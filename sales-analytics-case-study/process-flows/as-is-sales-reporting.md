@@ -15,7 +15,7 @@
 → [Update Pipeline in Excel]
 → [End]
 
-text
+ 
 
 ### Pool: Regional Managers
 [Start]
@@ -25,7 +25,7 @@ text
 → [Email to Sales Director]
 → [End]
 
-text
+ 
 
 ### Pool: Sales Operations
 [Start]
@@ -36,7 +36,7 @@ text
 → [Distribute Weekly Report]
 → [End]
 
-text
+ 
 
 ### Pool: Finance Department
 [Start]
@@ -46,7 +46,7 @@ text
 → [Email Corrections to Sales Ops]
 → [End]
 
-text
+ 
 
 ## Process Steps Detail
 
